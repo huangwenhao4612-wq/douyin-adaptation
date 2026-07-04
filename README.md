@@ -1,2 +1,2 @@
-# -skill
+# douyin-adaptation
 原生Canvas开发的抖音小游戏可以用该skill一键生成，一遍过，不报错，同时接入侧边栏复访功能、广告系统等必接内容，非原生Canvas开发的游戏亦可使用，但效果可能欠佳
